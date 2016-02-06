@@ -1,0 +1,53 @@
+@CHARSET "ISO-8859-1";
+
+header {
+	margin: 0;
+	background-color: pink;
+	padding: 25px 15px 0 15px;
+}
+
+body {
+	margin: 0;
+	color: #666666;
+	background-image:url("http://pre11.deviantart.net/672d/th/pre/i/2015/114/e/c/sphynx_cat_pattern_by_ponychops-d55afuj.png");
+	text-align: left;
+	color: #666666;
+}
+
+header h1 {
+	margin: 0;
+	color: white;
+	display: inline;
+}
+
+nav ul {
+	margin: 0;
+	display: inline;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	color: white;
+	background: pink;
+	padding: 5px 15px;
+	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+nav ul li a {
+	color: white;
+	border: thin;
+	border-color: white;
+}
+
+footer {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 1%;
+	margin-top:50%;
+	clear:both;
+}
