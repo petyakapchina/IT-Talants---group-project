@@ -1,0 +1,34 @@
+@CHARSET "ISO-8859-1";
+.form{
+	border: thick;
+	padding: 20px;
+	border-color:silver;
+	border-width: medium;
+	border-style: solid;
+	margin-left: 20px;
+	margin-right: 20px;
+	width: 700px;
+	margin-bottom:auto;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url("http://d1hw6n3yxknhky.cloudfront.net/012532251_prevstill.jpeg");
+	text-align: center;
+}
+
+.btn{
+	color: white;
+	background: pink;
+}
+.form1{
+	background: white;
+	border: thick;
+	border-color:silver;
+	border-width: medium;
+	border-style: solid;
+	margin-left: auto;
+	margin-right: auto;
+	width: 740px;
+	height: 300px;
+	background-image: url("http://vignette4.wikia.nocookie.net/glee/images/7/78/Falling_heart.gif/revision/latest?cb=20140203040324");
+}
+

@@ -9,9 +9,10 @@ header {
 body {
 	margin: 0;
 	color: #666666;
-	background-image:url("http://pre11.deviantart.net/672d/th/pre/i/2015/114/e/c/sphynx_cat_pattern_by_ponychops-d55afuj.png");
 	text-align: left;
 	color: #666666;
+	background: silver;
+	background-image: url("https://cdn.vectorstock.com/i/composite/91,80/vintage-pattern-vector-849180.jpg");
 }
 
 header h1 {
@@ -44,10 +45,14 @@ nav ul li a {
 	border-color: white;
 }
 
-footer {
+.media {
+	text-align:center;
+	margin-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 1%;
-	margin-top:50%;
-	clear:both;
 }
+
+button{
+	background: pink;
+	color:white;
+	}
