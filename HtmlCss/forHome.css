@@ -1,26 +1,5 @@
 @CHARSET "ISO-8859-1";
 
-.col {
-	clear: both;
-}
-
-.row {
-	margin: 1%;
-	width: 30%;
-	float: none;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	border: thin;
-	border-color: maroon;
-}
-
-.buttons {
-	magrin: 1%;
-	margin-left: auto;
-	margin-right: auto;
-}
-
 .heading {
 	background: pink;
 	margin-bottom: 0;
@@ -32,31 +11,54 @@
 .photopanel {
 	margin-left: auto;
 	margin-right: auto;
-	width: 400px;
+	width: 415px;
 	padding: 5px;
 	background-image:
-		url("http://www.morionbg.com/wp-content/uploads/2015/03/White-Marble.jpg");
+		url("http://content.wallpapers-room.com/resolutions/1280x800/V/Wallpapers-room_com___Veluxe_LightGrey_by_TwoDecks_1280x800.jpg");
 	padding-right: 10px;
 	padding-left: 10px;
 	margin-bottom: 10px;
+	border:medium;
+	border-color:silver;
+	border-style: double;
+	
 }
 
 button {
 	color: white;
-	background: pink;
 	font-style: oblique;
-	margin-left: auto;
-	margin-right: auto;
 	text-align: center;
+	border:medium;
+	border-color:silver;
+	border-style: double;
+	background: #ff9bfd;
+}
+.b{
+	margin-left:35%;;
+	margin-bottom: 10px;
 }
 
 h3 {
 	color: pink;
 	text-align: center;
+	border-bottom:thin;
+	border-bottom-color:silver;
+	border-bottom-style: solid;
+	
+}
+
+h2 {
+	color: pink;
+	text-align: center;
+	border-bottom:thin;
+	border-bottom-color:silver;
+	border-bottom-style: solid;
 }
 
 img {
-	border-style: dashed;
-	border-color: silver;
-	border: medium;
-}
+	border:medium;
+	border-color:silver;
+	border-style: double;
+	margin-left: 5px;	
+	
+	}

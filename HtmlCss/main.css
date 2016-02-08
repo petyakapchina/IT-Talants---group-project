@@ -11,14 +11,15 @@ body {
 	color: #666666;
 	text-align: left;
 	color: #666666;
-	background: silver;
-	background-image: url("https://cdn.vectorstock.com/i/composite/91,80/vintage-pattern-vector-849180.jpg");
+	background-image:
+		url("http://content.wallpapers-room.com/resolutions/1280x800/V/Wallpapers-room_com___Veluxe_LightGrey_by_TwoDecks_1280x800.jpg");
 }
 
 header h1 {
 	margin: 0;
 	color: white;
 	display: inline;
+	font-family: inherit;
 }
 
 nav ul {
@@ -26,6 +27,9 @@ nav ul {
 	display: inline;
 	margin-left: auto;
 	margin-right: auto;
+	height: 25px;
+	
+
 }
 
 nav ul li {
@@ -37,22 +41,51 @@ nav ul li {
 	margin: 0;
 	margin-left: auto;
 	margin-right: auto;
+	border: thin;
+	border-color: white;
+	border-style: groove;
+	background-image: url("http://content.wallpapers-room.com/resolutions/1280x800/V/Wallpapers-room_com___Veluxe_LightGrey_by_TwoDecks_1280x800.jpg");
 }
 
 nav ul li a {
 	color: white;
 	border: thin;
 	border-color: white;
+	
 }
 
 .media {
-	text-align:center;
+	text-align: center;
 	margin-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-button{
+button {
 	background: pink;
+	color: white;
+}
+
+.container {
+	margin-top: 1%;
+	margin-left: auto;
+	margin-right: auto; background : red;
+	width: 800px;
+	background-image:url("http://www.decorsupplies.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/B/F/BF0108B18542691D4365C83B4417A2D1.jpg");
+	border: medium;
+	border-color: silver;
+	border-style: solid;
+	margin-bottom: 10px;
+}
+header{
+	border: thin;
+	border-color: silver;
+	border-style: solid;
+	margin-bottom: 5px;
+	background: pink;
+	padding-bottom: 25px;
+	
+}
+footer{
 	color:white;
-	}
+}
