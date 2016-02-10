@@ -1,21 +1,21 @@
 @CHARSET "ISO-8859-1";
 
-header {
-	margin: 0;
+.menu {
+	
 	background-color: pink;
-	padding: 25px 15px 0 15px;
-}
+	padding: 25px 15px 20px 15px;
+	}
 
 body {
 	margin: 0;
 	color: #666666;
 	text-align: left;
 	color: #666666;
-	background-image:
-		url("http://content.wallpapers-room.com/resolutions/1280x800/V/Wallpapers-room_com___Veluxe_LightGrey_by_TwoDecks_1280x800.jpg");
+	
+	background:url("http://content.wallpapers-room.com/resolutions/1280x800/V/Wallpapers-room_com___Veluxe_LightGrey_by_TwoDecks_1280x800.jpg");
 }
 
-header h1 {
+h1 {
 	margin: 0;
 	color: white;
 	display: inline;
@@ -44,7 +44,7 @@ nav ul li {
 	border: thin;
 	border-color: white;
 	border-style: groove;
-	background-image: url("http://content.wallpapers-room.com/resolutions/1280x800/V/Wallpapers-room_com___Veluxe_LightGrey_by_TwoDecks_1280x800.jpg");
+	background-image: url("http://cdn.playbuzz.com/cdn/308a71e7-f125-4014-aaf6-38223f1c943b/c8ec1148-49d4-4523-8225-fbc19b4291d4.jpg");
 }
 
 nav ul li a {
@@ -66,12 +66,12 @@ button {
 	color: white;
 }
 
-.container {
+.content {
 	margin-top: 1%;
 	margin-left: auto;
-	margin-right: auto; background : red;
+	margin-right: auto; 
 	width: 800px;
-	background-image:url("http://www.decorsupplies.co.uk/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/B/F/BF0108B18542691D4365C83B4417A2D1.jpg");
+	background-image:url("http://www.interiorplace.com/product_images/a/993/CG28818L__17442.jpg");
 	border: medium;
 	border-color: silver;
 	border-style: solid;
@@ -84,8 +84,18 @@ header{
 	margin-bottom: 5px;
 	background: pink;
 	padding-bottom: 25px;
+	margin-bottom: 10px;
+	width: 100%;
+	text-align: center;
+}
+
+h1{
 	
 }
 footer{
 	color:white;
+}
+
+.lable{
+	background: pink;
 }

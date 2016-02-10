@@ -14,51 +14,82 @@
 	width: 415px;
 	padding: 5px;
 	background-image:
-		url("http://content.wallpapers-room.com/resolutions/1280x800/V/Wallpapers-room_com___Veluxe_LightGrey_by_TwoDecks_1280x800.jpg");
+		url("http://cdn.playbuzz.com/cdn/308a71e7-f125-4014-aaf6-38223f1c943b/c8ec1148-49d4-4523-8225-fbc19b4291d4.jpg");
 	padding-right: 10px;
 	padding-left: 10px;
 	margin-bottom: 10px;
-	border:medium;
-	border-color:silver;
+	border: medium;
+	border-color: silver;
 	border-style: double;
-	
 }
 
 button {
 	color: white;
-	font-style: oblique;
+	font-style: normal;
 	text-align: center;
-	border:medium;
-	border-color:silver;
+	border: medium;
+	border-color: silver;
 	border-style: double;
 	background: #ff9bfd;
 }
-.b{
-	margin-left:35%;;
+
+.b {
+	margin-left: 35%;;
 	margin-bottom: 10px;
 }
 
-h3 {
-	color: pink;
-	text-align: center;
-	border-bottom:thin;
-	border-bottom-color:silver;
-	border-bottom-style: solid;
-	
-}
-
-h2 {
-	color: pink;
-	text-align: center;
-	border-bottom:thin;
-	border-bottom-color:silver;
-	border-bottom-style: solid;
-}
 
 img {
-	border:medium;
-	border-color:silver;
+	border: medium;
+	border-color: silver;
 	border-style: double;
-	margin-left: 5px;	
-	
+	margin-left: 5px;
+}
+
+form {
+	width: 400px;
+	height: 200px;
+	background: white;
+	border: medium;
+	border-color: silver;
+	border-style: double;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+}
+
+.user{
+	color: pink;
+	border: medium;
+	text-align: center;
+	width: 100px;
+	margin-left: 150px;
 	}
+	
+.tag{
+	color: pink;
+	text-align: center;
+	border: medium;
+	border-color: silver;
+	border-style: double;
+	margin-bottom: 10px;
+}	
+.profile{
+	border: medium;
+	border-color: silver;
+	border-style: double;
+	display: block;
+	height: 60px;
+	display: block;
+}
+
+.profilepic{
+background:white;
+	width: 45px;
+	height: 45px;
+	border: medium;
+	border-color: silver;
+	border-style: double;
+	margin: 5px;
+	
+}
