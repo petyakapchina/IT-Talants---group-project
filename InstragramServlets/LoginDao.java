@@ -6,7 +6,7 @@ public class LoginDao {
 public static boolean validate(String name,String pass){  
 boolean status=false;  
 try{  
-Class.forName(jdbc:mysql://localhost:3306/instagram","root","");  
+Class.forName("jdbc:mysql://localhost:3306/instagram","root","");  
 Connection con=DriverManager.getConnection(  
 "jdbc:mysql://localhost:3306/instagram","root","");  
       
