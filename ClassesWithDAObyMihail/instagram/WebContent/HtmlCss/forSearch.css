@@ -1,0 +1,38 @@
+@CHARSET "ISO-8859-1";
+
+
+.tfnewsearch{
+	background: pink;
+	padding: 10px;
+	text-align: right;
+	margin:15px;
+	border: medium;
+	border-color: silver;
+	border-style: double;
+}
+
+input{
+	color:black;
+	background: white;
+	font-family: sans-serif;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.btn{
+	background: black;
+	border: medium;
+	border-color: silver;
+	border-style: double;
+	margin:5px;
+	color:white;
+}
+
+.i{
+	margin:25px;
+	height: 800px;
+	background: white;
+	border: medium;
+	border-color: silver;
+	border-style: double;	
+}

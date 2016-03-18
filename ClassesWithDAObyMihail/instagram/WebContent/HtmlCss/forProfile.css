@@ -1,0 +1,46 @@
+@CHARSET "ISO-8859-1";
+
+
+.menu1 {
+	width: 300px;
+	margin: left;
+	padding: 10px;
+	margin:15px;
+	background: pink;
+	width: 140px;
+	border: medium;
+	border-color: silver;
+	border-style: double;
+}
+button{
+	background: #595959;
+	color:white;
+	padding: 5px;
+	margin: 5px;
+	border: medium;
+	border-color: silver;
+	border-style: double;
+}
+
+h3{
+	border-bottom: medium;
+	border-bottom-color: silver;
+	border-bottom-style: double;
+	margin: 2px;
+	margin-bottom: 5px;
+}
+.profile{
+	
+}
+.photo{
+	
+}
+.name{
+	
+}
+.subs{
+	
+}
+.gallery{
+	
+}
