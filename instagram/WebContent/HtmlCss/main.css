@@ -1,0 +1,101 @@
+@CHARSET "ISO-8859-1";
+
+.menu {
+	
+	background-color: pink;
+	padding: 25px 15px 20px 15px;
+	}
+
+body {
+	margin: 0;
+	color: #666666;
+	text-align: left;
+	color: #666666;
+	
+	background:url("http://content.wallpapers-room.com/resolutions/1280x800/V/Wallpapers-room_com___Veluxe_LightGrey_by_TwoDecks_1280x800.jpg");
+}
+
+h1 {
+	margin: 0;
+	color: white;
+	display: inline;
+	font-family: inherit;
+}
+
+nav ul {
+	margin: 0;
+	display: inline;
+	margin-left: auto;
+	margin-right: auto;
+	height: 25px;
+	
+
+}
+
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	color: white;
+	background: pink;
+	padding: 5px 15px;
+	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
+	border: thin;
+	border-color: white;
+	border-style: groove;
+	background-image: url("http://cdn.playbuzz.com/cdn/308a71e7-f125-4014-aaf6-38223f1c943b/c8ec1148-49d4-4523-8225-fbc19b4291d4.jpg");
+}
+
+nav ul li a {
+	color: white;
+	border: thin;
+	border-color: white;
+	
+}
+
+.media {
+	text-align: center;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+button {
+	background: pink;
+	color: white;
+}
+
+.content {
+	margin-top: 1%;
+	margin-left: auto;
+	margin-right: auto; 
+	width: 800px;
+	background-image:url("http://www.interiorplace.com/product_images/a/993/CG28818L__17442.jpg");
+	border: medium;
+	border-color: silver;
+	border-style: solid;
+	margin-bottom: 10px;
+}
+header{
+	border: thin;
+	border-color: silver;
+	border-style: solid;
+	margin-bottom: 5px;
+	background: pink;
+	padding-bottom: 25px;
+	margin-bottom: 10px;
+	width: 100%;
+	text-align: center;
+}
+
+h1{
+	
+}
+footer{
+	color:white;
+}
+
+.lable{
+	background: pink;
+}

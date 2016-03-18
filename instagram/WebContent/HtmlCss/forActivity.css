@@ -1,0 +1,22 @@
+.choice {
+	background-image: url("http://d1hw6n3yxknhky.cloudfront.net/012532251_prevstill.jpeg");
+	width: 300px;
+	margin: left;
+	margin-left: 5px;
+	padding: 5px;
+	border-style: solid;
+	border-color: grey;
+	border: double;
+	margin-top: 5px;
+}
+
+button {
+	padding: 5px;
+	margin: 5px;
+	margin-left: 5px;
+}
+
+h3 {
+	text-align: center;
+	color: grey;
+}
